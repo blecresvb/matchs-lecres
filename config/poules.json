@@ -1,0 +1,13 @@
+{
+  "saison": "2026/2027",
+  "codent": "LILR",
+  "club": "LE CRES",
+  "poules": [
+    { "code": "PFA", "competition": "PRÉNATIONALE FÉMININE" },
+    { "code": "PMA", "competition": "PRÉNATIONALE MASCULINE" },
+    { "code": "RFA", "competition": "RÉGIONALE 1 FÉMININE" },
+    { "code": "RFB", "competition": "RÉGIONALE 2 FÉMININE" },
+    { "code": "RMA", "competition": "RÉGIONALE 1 MASCULINE" },
+    { "code": "RMB", "competition": "RÉGIONALE 2 MASCULINE" }
+  ]
+}
