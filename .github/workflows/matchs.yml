@@ -2,7 +2,7 @@ name: Mise à jour des matchs du Crès
 
 on:
   schedule:
-    - cron: "0 4 * * *"
+    - cron: "0 5 * * 5"
   workflow_dispatch:
 
 permissions:
