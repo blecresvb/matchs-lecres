@@ -1,0 +1,253 @@
+[
+ {
+  "fichier": "logo-lecres.png",
+  "nom": "LE CRÈS VOLLEY-BALL",
+  "alias": [
+   "le cres",
+   "lecres"
+  ],
+  "court": "LE CRÈS"
+ },
+ {
+  "fichier": "clermont-vbcc.png",
+  "nom": "VOLLEY-BALL CLUB CLERMONTAIS",
+  "alias": [
+   "clermont",
+   "vbcc",
+   "clermontais"
+  ],
+  "court": "VBC CLERMONTAIS"
+ },
+ {
+  "fichier": "agde.png",
+  "nom": "AGDE VOLLEY-BALL",
+  "alias": [
+   "agde"
+  ],
+  "court": "AGDE"
+ },
+ {
+  "fichier": "ales.png",
+  "nom": "ALÈS AGGLO VOLLEY-BALL",
+  "alias": [
+   "ales"
+  ],
+  "court": "ALÈS AGGLO"
+ },
+ {
+  "fichier": "arago-sete.png",
+  "nom": "ARAGO DE SÈTE VOLLEY-BALL",
+  "alias": [
+   "arago",
+   "arago de sete"
+  ],
+  "court": "ARAGO DE SÈTE"
+ },
+ {
+  "fichier": "asbam.png",
+  "nom": "ASBAM MONTPELLIER VOLLEY-BALL",
+  "alias": [
+   "asbam"
+  ],
+  "court": "ASBAM MONTPELLIER"
+ },
+ {
+  "fichier": "beziers-angels.png",
+  "nom": "BÉZIERS ANGELS",
+  "alias": [
+   "beziers angels",
+   "angels"
+  ],
+  "court": "BÉZIERS ANGELS"
+ },
+ {
+  "fichier": "beziers-maraussan.png",
+  "nom": "GAZELEC BÉZIERS MARAUSSAN VOLLEY-BALL",
+  "alias": [
+   "maraussan",
+   "gazelec"
+  ],
+  "court": "BÉZIERS MARAUSSAN"
+ },
+ {
+  "fichier": "bousquet-bedarieux.png",
+  "nom": "BOUSQUET BÉDARIEUX VOLLEY-BALL GRAND ORB",
+  "alias": [
+   "bousquet",
+   "bedarieux",
+   "grand orb"
+  ],
+  "court": "BOUSQUET BÉDARIEUX"
+ },
+ {
+  "fichier": "castries.png",
+  "nom": "ENTENTE CASTRIES VOLLEY-BALL",
+  "alias": [
+   "castries",
+   "castrie"
+  ],
+  "court": "CASTRIES"
+ },
+ {
+  "fichier": "claira.png",
+  "nom": "CLAIRA VOLLEY-BALL",
+  "alias": [
+   "claira"
+  ],
+  "court": "CLAIRA"
+ },
+ {
+  "fichier": "coursan.png",
+  "nom": "FLEURY MJC COURSAN",
+  "alias": [
+   "coursan",
+   "fleury"
+  ],
+  "court": "FLEURY COURSAN"
+ },
+ {
+  "fichier": "generac.png",
+  "nom": "CLUB VOLLEY GÉNÉRAC",
+  "alias": [
+   "generac"
+  ],
+  "court": "GÉNÉRAC"
+ },
+ {
+  "fichier": "gigean.png",
+  "nom": "ASVG VOLLEY-BALL GIGEAN",
+  "alias": [
+   "gigean",
+   "asvg"
+  ],
+  "court": "GIGEAN"
+ },
+ {
+  "fichier": "gignac.png",
+  "nom": "GIGNAC VOLLEY-BALL",
+  "alias": [
+   "gignac"
+  ],
+  "court": "GIGNAC"
+ },
+ {
+  "fichier": "croix-d-argent.png",
+  "nom": "CROIX D'ARGENT MONTPELLIER VOLLEY-BALL",
+  "alias": [
+   "croix d'argent",
+   "croix dargent",
+   "lacroix",
+   "croix argent",
+   "asljcroix"
+  ],
+  "court": "LA CROIX D'ARGENT"
+ },
+ {
+  "fichier": "lattes.png",
+  "nom": "LATTES VOLLEY-BALL",
+  "alias": [
+   "lattes",
+   "mhscvb"
+  ],
+  "court": "LATTES"
+ },
+ {
+  "fichier": "mauguio.png",
+  "nom": "MAUGUIO VOLLEY-BALL",
+  "alias": [
+   "mauguio"
+  ],
+  "court": "MAUGUIO"
+ },
+ {
+  "fichier": "mende.png",
+  "nom": "MENDE LOZÈRE VOLLEY-BALL",
+  "alias": [
+   "mende",
+   "lozere"
+  ],
+  "court": "MENDE LOZÈRE"
+ },
+ {
+  "fichier": "meze.png",
+  "nom": "VOLLEY OLYMPIQUE MÉZOIS",
+  "alias": [
+   "meze",
+   "mezois",
+   "vom"
+  ],
+  "court": "MÈZE"
+ },
+ {
+  "fichier": "mvuc.png",
+  "nom": "MONTPELLIER CASTELNAU VOLLEY UC",
+  "alias": [
+   "mvuc",
+   "castelnau"
+  ],
+  "court": "MONTPELLIER CASTELNAU"
+ },
+ {
+  "fichier": "narbonne.png",
+  "nom": "NARBONNE VOLLEY",
+  "alias": [
+   "narbonne"
+  ],
+  "court": "NARBONNE"
+ },
+ {
+  "fichier": "nimes.png",
+  "nom": "NÎMES VOLLEY-BALL",
+  "alias": [
+   "nimes"
+  ],
+  "court": "NÎMES"
+ },
+ {
+  "fichier": "perpignan.png",
+  "nom": "PERPIGNAN VOLLEY-BALL (PRVB)",
+  "alias": [
+   "perpignan",
+   "prvb"
+  ],
+  "court": "PERPIGNAN"
+ },
+ {
+  "fichier": "roubia.png",
+  "nom": "UNION SPORTIVE ROUBIANAISE",
+  "alias": [
+   "roubia",
+   "roubianaise"
+  ],
+  "court": "ROUBIA"
+ },
+ {
+  "fichier": "sete-svbc.png",
+  "nom": "SÈTE VOLLEY-BALL CLUB",
+  "alias": [
+   "sete",
+   "svbc"
+  ],
+  "court": "SÈTE VBC"
+ },
+ {
+  "fichier": "saint-esteve.png",
+  "nom": "VOLLEY-BALL SAINT-ESTÈVE",
+  "alias": [
+   "saint esteve",
+   "st esteve",
+   "esteve"
+  ],
+  "court": "SAINT-ESTÈVE"
+ },
+ {
+  "fichier": "saint-gely.png",
+  "nom": "SAINT-GÉLY-DU-FESC VOLLEY",
+  "alias": [
+   "saint gely",
+   "st gely",
+   "gely"
+  ],
+  "court": "SAINT-GÉLY"
+ }
+]
