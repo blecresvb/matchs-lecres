@@ -1,0 +1,53 @@
+name: Stories live du week-end
+
+on:
+  workflow_run:
+    workflows: ["Mise à jour des matchs du Crès"]
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: matchs
+  cancel-in-progress: false
+
+jobs:
+  stories:
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r generateur/requirements.txt
+
+      - name: Générer les stories des matchs à domicile du prochain week-end
+        run: |
+          rm -rf stories && mkdir -p stories
+          python generateur/scripts/generer_affiche_live.py --weekend \
+            --url "file://$PWD/data/matchs.json" --out stories || echo "Aucun match à domicile ce week-end."
+          python - <<'PY'
+          import json, os, datetime as dt
+          t = dt.date.today()
+          sam = t + dt.timedelta(days=(5 - t.weekday()) % 7) if t.weekday() < 5 else t - dt.timedelta(days=t.weekday() - 5)
+          fichiers = sorted(f for f in os.listdir("stories") if f.endswith(".png"))
+          json.dump({"weekend": sam.isoformat(), "genere_le": dt.datetime.utcnow().isoformat() + "Z",
+                     "fichiers": fichiers}, open("stories/index.json", "w"), indent=1)
+          print(fichiers)
+          PY
+
+      - name: Enregistrer les stories si elles ont changé
+        run: |
+          git add -A stories
+          if git diff --cached --quiet -I '"genere_le"'; then echo "Rien de nouveau."; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898699+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Stories du week-end ($(date -u +%Y-%m-%d))"
+          git push
