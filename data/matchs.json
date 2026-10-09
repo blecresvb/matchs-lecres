@@ -1,7 +1,7 @@
 {
   "club": "Le Crès Volley-Ball",
   "saison": "2026/2027",
-  "mis_a_jour": "2026-10-05T07:33:56.491Z",
+  "mis_a_jour": "2026-10-09T05:05:20.778Z",
   "source": "https://www.ffvbbeach.org/ffvbapp/resu/vbspo_calendrier.php",
   "erreurs": [],
   "matchs": [
@@ -146,6 +146,42 @@
       "domicile": false,
       "equipe_lecres": "1",
       "adversaire": "AS.SP. V.B MAUGUIO",
+      "joue": false,
+      "score": null
+    },
+    {
+      "code": "RMB022",
+      "poule": "RMB",
+      "competition": "RÉGIONALE 2 MASCULINE",
+      "date": "2026-10-17",
+      "heure": "20:00",
+      "domicile": false,
+      "equipe_lecres": "3",
+      "adversaire": "PERPIGNAN ROUSSILLON V.B",
+      "joue": false,
+      "score": null
+    },
+    {
+      "code": "PMA018",
+      "poule": "PMA",
+      "competition": "PRÉNATIONALE MASCULINE",
+      "date": "2026-10-17",
+      "heure": "21:00",
+      "domicile": true,
+      "equipe_lecres": "1",
+      "adversaire": "SAINT-GELY VOLLEY-BALL",
+      "joue": false,
+      "score": null
+    },
+    {
+      "code": "RFA020",
+      "poule": "RFA",
+      "competition": "RÉGIONALE 1 FÉMININE",
+      "date": "2026-10-18",
+      "heure": "14:00",
+      "domicile": true,
+      "equipe_lecres": "2",
+      "adversaire": "M.J.C. COURSAN",
       "joue": false,
       "score": null
     }
