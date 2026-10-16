@@ -1,82 +1,10 @@
 {
   "club": "Le Crès Volley-Ball",
   "saison": "2026/2027",
-  "mis_a_jour": "2026-10-09T05:05:20.778Z",
+  "mis_a_jour": "2026-10-16T05:17:20.846Z",
   "source": "https://www.ffvbbeach.org/ffvbapp/resu/vbspo_calendrier.php",
   "erreurs": [],
   "matchs": [
-    {
-      "code": "PFA007",
-      "poule": "PFA",
-      "competition": "PRÉNATIONALE FÉMININE",
-      "date": "2026-10-03",
-      "heure": "18:00",
-      "domicile": true,
-      "equipe_lecres": "1",
-      "adversaire": "VOLLEY-BALL GRUISSAN",
-      "joue": true,
-      "score": "3-2"
-    },
-    {
-      "code": "RFB011",
-      "poule": "RFB",
-      "competition": "RÉGIONALE 2 FÉMININE",
-      "date": "2026-10-03",
-      "heure": "18:00",
-      "domicile": false,
-      "equipe_lecres": "3",
-      "adversaire": "MHSCVB ACADEMY LATTES",
-      "joue": true,
-      "score": "3-0"
-    },
-    {
-      "code": "RMA008",
-      "poule": "RMA",
-      "competition": "RÉGIONALE 1 MASCULINE",
-      "date": "2026-10-03",
-      "heure": "18:30",
-      "domicile": false,
-      "equipe_lecres": "2",
-      "adversaire": "ASLJCROIX ARGENT MONTPELLIER",
-      "joue": true,
-      "score": "3-1"
-    },
-    {
-      "code": "RMB008",
-      "poule": "RMB",
-      "competition": "RÉGIONALE 2 MASCULINE",
-      "date": "2026-10-03",
-      "heure": "20:00",
-      "domicile": false,
-      "equipe_lecres": "3",
-      "adversaire": "ARAGO DE SETE VOLLEY-BALL",
-      "joue": true,
-      "score": "3-1"
-    },
-    {
-      "code": "PMA007",
-      "poule": "PMA",
-      "competition": "PRÉNATIONALE MASCULINE",
-      "date": "2026-10-03",
-      "heure": "21:00",
-      "domicile": true,
-      "equipe_lecres": "1",
-      "adversaire": "SETE VOLLEY-BALL CLUB",
-      "joue": true,
-      "score": "3-2"
-    },
-    {
-      "code": "RFA009",
-      "poule": "RFA",
-      "competition": "RÉGIONALE 1 FÉMININE",
-      "date": "2026-10-04",
-      "heure": "14:00",
-      "domicile": true,
-      "equipe_lecres": "2",
-      "adversaire": "ASLJCROIX ARGENT MONTPELLIER",
-      "joue": true,
-      "score": "0-3"
-    },
     {
       "code": "RFB027",
       "poule": "RFB",
@@ -86,8 +14,8 @@
       "domicile": true,
       "equipe_lecres": "3",
       "adversaire": "SETE VOLLEY-BALL CLUB",
-      "joue": false,
-      "score": null
+      "joue": true,
+      "score": "1-3"
     },
     {
       "code": "PFA014",
@@ -98,8 +26,8 @@
       "domicile": false,
       "equipe_lecres": "1",
       "adversaire": "VBC CLERMONTAIS",
-      "joue": false,
-      "score": null
+      "joue": true,
+      "score": "1-3"
     },
     {
       "code": "RFA012",
@@ -110,8 +38,8 @@
       "domicile": false,
       "equipe_lecres": "2",
       "adversaire": "ENTENTE CASTRIES VOLLEY BALL",
-      "joue": false,
-      "score": null
+      "joue": true,
+      "score": "3-0"
     },
     {
       "code": "RMB015",
@@ -134,8 +62,8 @@
       "domicile": true,
       "equipe_lecres": "2",
       "adversaire": "UNION SPORTIVE ROUBIANAISE",
-      "joue": false,
-      "score": null
+      "joue": true,
+      "score": "3-2"
     },
     {
       "code": "PMA014",
@@ -146,8 +74,8 @@
       "domicile": false,
       "equipe_lecres": "1",
       "adversaire": "AS.SP. V.B MAUGUIO",
-      "joue": false,
-      "score": null
+      "joue": true,
+      "score": "3-0"
     },
     {
       "code": "RMB022",
@@ -178,7 +106,7 @@
       "poule": "RFA",
       "competition": "RÉGIONALE 1 FÉMININE",
       "date": "2026-10-18",
-      "heure": "14:00",
+      "heure": "16:30",
       "domicile": true,
       "equipe_lecres": "2",
       "adversaire": "M.J.C. COURSAN",
