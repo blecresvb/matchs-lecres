@@ -1,70 +1,14 @@
 {
   "club": "Le Crès Volley-Ball",
   "saison": "2026/2027",
-  "mis_a_jour": "2026-10-16T05:17:20.846Z",
+  "mis_a_jour": "2026-10-23T05:18:56.890Z",
   "source": "https://www.ffvbbeach.org/ffvbapp/resu/vbspo_calendrier.php",
-  "erreurs": [],
+  "erreurs": [
+    "PFA : aucun match trouvé (structure de page changée ?)",
+    "RFB : aucun match trouvé (structure de page changée ?)",
+    "RMA : aucun match trouvé (structure de page changée ?)"
+  ],
   "matchs": [
-    {
-      "code": "RFB027",
-      "poule": "RFB",
-      "competition": "RÉGIONALE 2 FÉMININE",
-      "date": "2026-10-10",
-      "heure": "18:00",
-      "domicile": true,
-      "equipe_lecres": "3",
-      "adversaire": "SETE VOLLEY-BALL CLUB",
-      "joue": true,
-      "score": "1-3"
-    },
-    {
-      "code": "PFA014",
-      "poule": "PFA",
-      "competition": "PRÉNATIONALE FÉMININE",
-      "date": "2026-10-10",
-      "heure": "20:00",
-      "domicile": false,
-      "equipe_lecres": "1",
-      "adversaire": "VBC CLERMONTAIS",
-      "joue": true,
-      "score": "1-3"
-    },
-    {
-      "code": "RFA012",
-      "poule": "RFA",
-      "competition": "RÉGIONALE 1 FÉMININE",
-      "date": "2026-10-10",
-      "heure": "20:30",
-      "domicile": false,
-      "equipe_lecres": "2",
-      "adversaire": "ENTENTE CASTRIES VOLLEY BALL",
-      "joue": true,
-      "score": "3-0"
-    },
-    {
-      "code": "RMB015",
-      "poule": "RMB",
-      "competition": "RÉGIONALE 2 MASCULINE",
-      "date": "2026-10-10",
-      "heure": "21:00",
-      "domicile": true,
-      "equipe_lecres": "3",
-      "adversaire": "xxxxx",
-      "joue": false,
-      "score": null
-    },
-    {
-      "code": "RMA014",
-      "poule": "RMA",
-      "competition": "RÉGIONALE 1 MASCULINE",
-      "date": "2026-10-11",
-      "heure": "14:00",
-      "domicile": true,
-      "equipe_lecres": "2",
-      "adversaire": "UNION SPORTIVE ROUBIANAISE",
-      "joue": true,
-      "score": "3-2"
-    },
     {
       "code": "PMA014",
       "poule": "PMA",
@@ -86,8 +30,8 @@
       "domicile": false,
       "equipe_lecres": "3",
       "adversaire": "PERPIGNAN ROUSSILLON V.B",
-      "joue": false,
-      "score": null
+      "joue": true,
+      "score": "3-0"
     },
     {
       "code": "PMA018",
@@ -98,8 +42,8 @@
       "domicile": true,
       "equipe_lecres": "1",
       "adversaire": "SAINT-GELY VOLLEY-BALL",
-      "joue": false,
-      "score": null
+      "joue": true,
+      "score": "3-2"
     },
     {
       "code": "RFA020",
@@ -110,8 +54,8 @@
       "domicile": true,
       "equipe_lecres": "2",
       "adversaire": "M.J.C. COURSAN",
-      "joue": false,
-      "score": null
+      "joue": true,
+      "score": "0-3"
     }
   ]
 }
