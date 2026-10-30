@@ -1,61 +1,81 @@
 {
   "club": "Le Crès Volley-Ball",
   "saison": "2026/2027",
-  "mis_a_jour": "2026-10-23T05:18:56.890Z",
+  "mis_a_jour": "2026-10-30T05:29:28.926Z",
   "source": "https://www.ffvbbeach.org/ffvbapp/resu/vbspo_calendrier.php",
-  "erreurs": [
-    "PFA : aucun match trouvé (structure de page changée ?)",
-    "RFB : aucun match trouvé (structure de page changée ?)",
-    "RMA : aucun match trouvé (structure de page changée ?)"
-  ],
+  "erreurs": [],
   "matchs": [
     {
-      "code": "PMA014",
-      "poule": "PMA",
-      "competition": "PRÉNATIONALE MASCULINE",
-      "date": "2026-10-15",
-      "heure": "21:00",
-      "domicile": false,
-      "equipe_lecres": "1",
-      "adversaire": "AS.SP. V.B MAUGUIO",
-      "joue": true,
-      "score": "3-0"
+      "code": "RFB028",
+      "poule": "RFB",
+      "competition": "RÉGIONALE 2 FÉMININE",
+      "date": "2026-11-07",
+      "heure": "18:00",
+      "domicile": true,
+      "equipe_lecres": "3",
+      "adversaire": "xxxxx",
+      "joue": false,
+      "score": null
     },
     {
-      "code": "RMB022",
-      "poule": "RMB",
-      "competition": "RÉGIONALE 2 MASCULINE",
-      "date": "2026-10-17",
+      "code": "PMA023",
+      "poule": "PMA",
+      "competition": "PRÉNATIONALE MASCULINE",
+      "date": "2026-11-07",
       "heure": "20:00",
       "domicile": false,
-      "equipe_lecres": "3",
-      "adversaire": "PERPIGNAN ROUSSILLON V.B",
-      "joue": true,
-      "score": "3-0"
-    },
-    {
-      "code": "PMA018",
-      "poule": "PMA",
-      "competition": "PRÉNATIONALE MASCULINE",
-      "date": "2026-10-17",
-      "heure": "21:00",
-      "domicile": true,
       "equipe_lecres": "1",
-      "adversaire": "SAINT-GELY VOLLEY-BALL",
-      "joue": true,
-      "score": "3-2"
+      "adversaire": "ALES AGGLO VOLLEY BALL",
+      "joue": false,
+      "score": null
     },
     {
-      "code": "RFA020",
+      "code": "PFA023",
+      "poule": "PFA",
+      "competition": "PRÉNATIONALE FÉMININE",
+      "date": "2026-11-07",
+      "heure": "20:30",
+      "domicile": false,
+      "equipe_lecres": "1",
+      "adversaire": "UNION SPORTIVE ROUBIANAISE",
+      "joue": false,
+      "score": null
+    },
+    {
+      "code": "RFA021",
       "poule": "RFA",
       "competition": "RÉGIONALE 1 FÉMININE",
-      "date": "2026-10-18",
-      "heure": "16:30",
+      "date": "2026-11-07",
+      "heure": "20:30",
+      "domicile": false,
+      "equipe_lecres": "2",
+      "adversaire": "PERPIGNAN ROUSSILLON V.B",
+      "joue": false,
+      "score": null
+    },
+    {
+      "code": "RMB029",
+      "poule": "RMB",
+      "competition": "RÉGIONALE 2 MASCULINE",
+      "date": "2026-11-07",
+      "heure": "21:00",
+      "domicile": true,
+      "equipe_lecres": "3",
+      "adversaire": "VBC CLERMONTAIS",
+      "joue": false,
+      "score": null
+    },
+    {
+      "code": "RMA025",
+      "poule": "RMA",
+      "competition": "RÉGIONALE 1 MASCULINE",
+      "date": "2026-11-08",
+      "heure": "14:00",
       "domicile": true,
       "equipe_lecres": "2",
-      "adversaire": "M.J.C. COURSAN",
-      "joue": true,
-      "score": "0-3"
+      "adversaire": "SETE VOLLEY-BALL CLUB",
+      "joue": false,
+      "score": null
     }
   ]
 }
